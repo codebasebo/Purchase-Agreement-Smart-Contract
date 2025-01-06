@@ -1,4 +1,4 @@
-# PurchaseAgreement Smart Contract
+# Purchase Agreement Smart Contract
 
 This is a Solidity smart contract for managing purchase agreements between a seller and a buyer. The contract ensures that both parties deposit funds and provides mechanisms for refunds and fund releases.
 
@@ -84,8 +84,7 @@ struct Order {
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/codebasebo/Purchase-Agreement-Smart-Contract
    ```
 
 2. Install dependencies:
